@@ -14,8 +14,8 @@
       <li class="nav-item active">
         <a class="nav-link" href="cadcontrato.php">Cadastrar Contrato</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="cadcontrato.php?acao=select">Cadastrar Contrato</a>
       </li>
     </ul>
   </div>
